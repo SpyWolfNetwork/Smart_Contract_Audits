@@ -1,2 +1,4 @@
 # Smart_Contract_Audits
-Smart Contract security audit reports
+
+Standard and Full smart contract security audits performed by the SpyWolf team.
+
