@@ -1,4 +1,4 @@
-# Smart_Contract_Audits
+# Smart Contract Security Audits
 
 Our security audits analyze the main aspects of a crypto project to help investors make make an informative decision during their research process.
 
